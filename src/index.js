@@ -11,7 +11,7 @@ import Grid from "./components/Grid";
 import Feature from "./components/Feature";
 
 storyblokInit({
-  accessToken: "W1vLyxT5rQ15jBpANjnv0gtt",
+  accessToken: "gyPFobTAiXO7U2FCgxyFQwtt",
   use: [apiPlugin],
   components: {
     page: Page,
